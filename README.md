@@ -1,8 +1,11 @@
 # 📱 LabeledContentDemo (SwiftUI)
 
+
 A modern **SwiftUI demo app** demonstrating how to build a clean, scalable **Profile & Settings screen** using **`LabeledContent`**, enum-driven data, and **iOS 26–ready MapKit APIs**.
 
 This project focuses on **clean architecture**, **type safety**, and **future-proof Apple frameworks**.
+
+<img width="345" height="492" alt="image" src="https://github.com/user-attachments/assets/1a018acf-6aea-471f-a5c7-71ee7640d61f" />
 
 ---
 
