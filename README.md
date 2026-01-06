@@ -72,9 +72,10 @@ LabeledContentDemo
 
 ## 🎨 Theme Support
 Users can switch between:
-System
-Light
-Dark
+- System
+- Light
+- Dark
+  
 Theme preference is stored using @AppStorage and applied globally.
 
 ---
